@@ -1,15 +1,4 @@
-body {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    margin: 0;
-    font-family: Arial, sans-serif;
-    background-color: rgb(24, 248, 248);
-    background-size: cover;
-}
-
-.bg-red {
+   .bg-red {
     background: #5490d9;
     box-shadow: 0 0 3px lightslategrey;
     box-sizing: border-box;
